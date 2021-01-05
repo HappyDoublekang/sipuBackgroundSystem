@@ -56,7 +56,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "chart": "^0.1.2",
     "chart.js": "^2.7.1",
     "chromedriver": "^76.0.0",
