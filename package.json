@@ -62,7 +62,7 @@
     "chromedriver": "^76.0.0",
     "css-loader": "^0.28.9",
     "element-ui": "^2.11.0",
-    "moment": "^2.19.1",
+    "moment": "^2.29.4",
     "no-case": "^2.3.2",
     "path-case": "^2.1.1",
     "snake-case": "^2.1.0",
